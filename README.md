@@ -1,9 +1,8 @@
-<h1 align="center" >🧛‍♂️ dracula.nvim</h1>
+<h1 align="center" >Base2Tone-Lavander.nvim</h1>
 
-<p align="center"><a href="https://draculatheme.com/">Dracula</a> colorscheme for <a href="https://neovim.io/">NEOVIM</a> written in Lua</p>
+# ‼️IMPORTANT ‼️
 
-![dracula.nvim](./assets/showcase.png)
-
+Currently I'm only testing with the colorscheme, so don't expect to be a finished product or to continue, as I might get bored of it and not finish it.
 
 ## ✔️ Requirements
 
@@ -39,12 +38,12 @@ Install via package manager
 
 ```lua
 -- Using Packer:
-use 'Mofiqul/dracula.nvim'
+use 'nenzenn/Base2Tone-Lavender.nvim'
 ```
 
 ```vim
 " Using Vim-Plug:
-Plug 'Mofiqul/dracula.nvim'
+Plug 'nenzenn/Base2Tone-Lavender.nvim'
 ```
 
 ## 🚀 Usage
