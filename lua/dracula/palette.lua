@@ -24,16 +24,16 @@
 ---@field white string
 ---@field black string
 return {
-   bg = "#282A36",
-   fg = "#F8F8F2",
-   selection = "#44475A",
+   bg = "#201d2a",
+   fg = "#9992b0",
+   selection = "#2c2839",
    comment = "#6272A4",
-   red = "#FF5555",
+   red = "#9375f5",
    orange = "#FFB86C",
-   yellow = "#F1FA8C",
-   green = "#50fa7b",
+   yellow = "#ecd1ff",
+   green = "#d294ff",
    purple = "#BD93F9",
-   cyan = "#8BE9FD",
+   cyan = "#b5a0fe",
    pink = "#FF79C6",
    bright_red = "#FF6E6E",
    bright_green = "#69FF94",
@@ -46,6 +46,6 @@ return {
    visual = "#3E4452",
    gutter_fg = "#4B5263",
    nontext = "#3B4048",
-   white = "#ABB2BF",
+   white = "#9992b0",
    black = "#191A21",
 }
